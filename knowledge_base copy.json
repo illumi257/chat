@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kumusta ka?",
+      "answer": "Mabuti naman!",
+      "need-login": "no"
+    },
+    {
+      "id": 2,
+      "question": "sino ang gumawa sa iyo?",
+      "answer": "Ang gumawa sa akin ay si Randy Lamarca Alabab. Siya ang aking master.",
+      "need-login": "no"
+    },
+    {
+      "id": 3,
+      "question": "Sino ang iyong master?",
+      "answer": "Ang aking master ay si Randy Lamarca Alabab!",
+      "need-login": "no"
+    },
+    {
+      "id": 4,
+      "question": "Magandang Umaga!",
+      "answer": "Magandang umaga din sa iyo!",
+      "need-login": "no"
+    },
+    {
+      "id": 5,
+      "question": "Magandang Tanghali!",
+      "answer": "Magandang tanghali din sa iyo!",
+      "need-login": "no"
+    },
+    {
+      "id": 6,
+      "question": "Magandang hapon!",
+      "answer": "Magandang hapon din sa iyo!",
+      "need-login": "no"
+    },
+    {
+      "id": 7,
+      "question": "Magandang gabi!",
+      "answer": "Magandang din din sa iyo!",
+      "need-login": "no"
+    },
+    {
+      "id": 8,
+      "question": "Magandang Araw!",
+      "answer": "Magandang araw din sa iyo!",
+      "need-login": "no"
+    },
+    {
+      "id": 9,
+      "question": "Paalam!",
+      "answer": "Hanggang sa muli! Paalam!",
+      "need-login": "no"
+    },
+    {
+      "id": 10,
+      "question": "quit!",
+      "answer": "Hanggang sa muli! Paalam!",
+      "need-login": "no"
+    },
+    {
+      "id": 11,
+      "question": "Hello!",
+      "answer": "Hi! Ano ang maipaglilingkod ko?",
+      "need-login": "no"
+    },
+    {
+      "id": 12,
+      "question": "Hi!",
+      "answer": "Hello! Ano ang maipaglilingkod ko?",
+      "need-login": "no"
+    },
+    {
+      "id": 13,
+      "question": "hi",
+      "answer": "Hello! Ano ang maipaglilingkod ko?",
+      "need-login": "no"
+    },
+    {
+      "id": 14,
+      "question": "Saan ka nakatira?",
+      "answer": "Pasensya na pero hindi ko po maaaring sabihin ang aking tirahan!",
+      "need-login": "no"
+    },
+    {
+      "id": 15,
+      "question": "Sino ka?",
+      "answer": "Ako si Poca! Ang inyong POWAS Chat Assistant!",
+      "need-login": "no"
+    },
+    {
+      "id": 16,
+      "question": "Maari mo ba akong tulungan?",
+      "answer": "Sure! Ano ang maipaglilingkod ko sa iyo?",
+      "need-login": "no"
+    },
+    {
+      "id": 17,
+      "question": "tulungan mo ako",
+      "answer": "Sure! Ano ang maipaglilingkod ko sa iyo?",
+      "need-login": "no"
+    },
+    {
+      "id": 18,
+      "question": "Kailangan ko sana ng tulong.",
+      "answer": "Sure! Ano ang maipaglilingkod ko sa iyo?",
+      "need-login": "no"
+    },
+    {
+      "id": 19,
+      "question": "Tulong!",
+      "answer": "Ano ang maitutulong ko sa iyo?",
+      "need-login": "no"
+    },
+    {
+      "id": 20,
+      "question": "Sino ang mga kasama ng iyong master sa paggawa sa iyo?",
+      "answer": "Ang kasama ng aking master sa paggawa sa akin ay sina Michael Angelo C. Pascual, Jonathan S. Cubol, at Ednalyn S. Ubaldo.",
+      "need-login": "no"
+    },
+    {
+      "id": 21,
+      "question": "Paano ako magbabayad ng bill",
+      "answer": "Maaaring pumunta o magsadya sa bahay ng Treasurer ng POWAS sa inyong purok o kaya ay hintayin ang pagpunta ng kolektor sa inyong bahay.",
+      "need-login": "no"
+    },
+    {
+      "id": 22,
+      "question": "Ano ang pangalan mo?",
+      "answer": "Ako si POCA! Ang iyong POWAS Chat Assistant!",
+      "need-login": "no"
+    },
+    {
+      "id": 23,
+      "question": "Paano magdagdag ng transaksyon?",
+      "answer": "Para makapagdagdag ng transaksyon, pindutin ang Transactions sa taas, tapos pindutin ang ADD TRANSACTION button. Punan lahat ng impormasyon na kailangan sa transaction at pindutin and SAVE.",
+      "need-login": "yes"
+    },
+    {
+      "id": 24,
+      "question": "Paano mag-apply ng POWAS?",
+      "answer": "Madali lang mag-apply ng POWAS service connection!<div><ol><li>Pumunta sa link na ito, <a class=\"font-bold underline\" href=\"apply\">POWAS Application</a>, at punan ng wasto ang lahat ng hinihinging impormasyon. Maaaring i-print ang iyong application form pagkatapos makapag-fill-up.</li><li>Pumunta sa nakatalagang Treasurer at magbayad ng Application at Membership Fee.</li><li>Antayin ang mga magkakabit ng iyong metro, pinakamatagal na ang isang linggo upang maikabit ang koneksyon ng tubig.</li></ol></div>Maaari ding personal na magpunta sa Treasurer upang mag-apply.",
+      "need-login": "no"
+    },
+    {
+      "id": 25,
+      "question": "Sino ang presidente ng Pinili POWAS Phase 4",
+      "answer": "Ang Presidente ng Pinili POWAS Phase IV ay si Antonio Rafael.",
+      "need-login": "no"
+    }
+  ]
+}
